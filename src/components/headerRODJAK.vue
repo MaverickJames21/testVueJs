@@ -12,6 +12,7 @@
           <b-nav-item ><router-link to="/profil">profil</router-link></b-nav-item>
           <b-nav-item ><router-link to="/motivation">Ma motivation</router-link></b-nav-item>
           <b-nav-item ><router-link to="/contact">Contact</router-link></b-nav-item>
+          <b-nav-item ><router-link to="/beer">beer</router-link></b-nav-item>
 
         </b-navbar-nav>
 

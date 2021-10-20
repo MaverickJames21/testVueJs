@@ -7,9 +7,17 @@ import home from '../pages/home.vue'
 import profil from '../pages/profil.vue'
 import motivation from '../pages/motivation.vue'
 import contact from '../pages/contact.vue'
+import beer from '../pages/beer.vue'
 
 
 const routes = [ 
+    {
+        path: '/beer',
+        component: beer
+
+    },
+
+   
     {
         path: '/home',
         component: home
